@@ -1,4 +1,0 @@
-description: A place holder for a list of used AWS regions
-collection: previously_seen_aws_regions
-name: previously_seen_aws_regions
-fields_list: _key,earliest,latest,awsRegion
